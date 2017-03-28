@@ -1,0 +1,13 @@
+{
+  "name": "naf-tutorial",
+  "version": "1.0.0",
+  "description": "My first multi-user virtual reality",
+  "scripts": {
+    "start": "node ./server/server.js"
+  },
+  "author": "YOUR_NAME",
+  "dependencies": {
+    "aframe-extras": "^3.3.4",
+    "networked-aframe": "^0.1.0"
+  }
+}
